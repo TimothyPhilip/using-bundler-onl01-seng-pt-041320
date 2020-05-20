@@ -1,2 +1,0 @@
-require "hashie"
-require "sinatra"
